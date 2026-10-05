@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# AI / LLM File
+Allow: /llms.txt
+
+# Sitemap
+Sitemap: https://www.riderslubricants.in/sitemap.xml
